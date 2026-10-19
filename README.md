@@ -2,6 +2,8 @@
 
 # Lab | Tableau
 
+## Link to my Public Tableau - [here](https://public.tableau.com/views/solved_lab_yurii/gender_barplot?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ### Learning Outcomes
 
 Upon completion of this lab, you will be able to:
